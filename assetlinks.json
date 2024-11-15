@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "com.envisionai.storycraftr",
-    "package_name": "com.envisionai.storycraftr",
-    "sha256_cert_fingerprints":
-    ["6B:AB:39:4C:8E:83:CF:5F:1A:9B:7A:10:79:42:F5:FB:28:8B:30:A5:88:BA:E1:04:4E:2F:07:B5:E8:38:4D:3A"]
-  }
-}]
